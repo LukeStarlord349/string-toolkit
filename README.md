@@ -4,6 +4,7 @@ A lightweight JavaScript utility library for string manipulation.
 Currently supports:
 
 - `toSnakeCase("Hello World")` → `"hello_world"`
+- `toKebabCase("Hello World")` → `"hello-world"`
 
 ---
 
@@ -26,9 +27,10 @@ yarn add @supidupiluki/string-toolkit
 ## Usage
 
 ```js
-const { toSnakeCase, } = require('@supidupiluki/string-toolkit');
+const { toSnakeCase, toKebabCase } = require('@supidupiluki/string-toolkit');
 
 console.log(toSnakeCase("Hello World")); // "hello_world"
+console.log(toKebabCase("Hello World")); // "hello-world"
 ```
 
 ---

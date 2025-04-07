@@ -1,6 +1,6 @@
 {
   "name": "@supidupiluki/string-toolkit",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A lightweight JavaScript utility library for string manipulation.",
   "main": "src/index.js",
   "scripts": {
