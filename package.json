@@ -1,21 +1,24 @@
 {
-  "name": "string-toolkit",
+  "name": "@supidupiluki/string-toolkit",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A lightweight JavaScript utility library for string manipulation.",
+  "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/LukeStarlord349/string-toolkit.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Lukas <if23b238@technikum-wien.at>",
+  "license": "MIT",
   "type": "commonjs",
   "bugs": {
     "url": "https://github.com/LukeStarlord349/string-toolkit/issues"
   },
-  "homepage": "https://github.com/LukeStarlord349/string-toolkit#readme"
+  "homepage": "https://github.com/LukeStarlord349/string-toolkit#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
