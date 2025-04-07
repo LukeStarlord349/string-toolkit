@@ -1,6 +1,3 @@
-Natürlich! Hier ist das komplette, optimierte `README.md`, bereit zum Kopieren:
-
-```markdown
 # @supidupiluki/string-toolkit
 
 A lightweight JavaScript utility library for string manipulation.  
